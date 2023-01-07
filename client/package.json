@@ -4,7 +4,7 @@
   "proxy": "http://localhost:5000",
   "private": true,
   "engines": {
-    "node": "16.x",
+    "node": "12.x",
     "npm": "8.19.3"
   },
   "dependencies": {
